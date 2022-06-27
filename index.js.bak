@@ -45,7 +45,7 @@ The AXI Interconnect IP connects one or more AXI memory-mapped Master devices to
         <img src="C:/Users/mahen/Downloads/FP pes/assets/axi.jpg"/>
         <hr style="width:75%"><br/>
         <div id="copyrights">
-        &#xA9; Mahendra Vamshi,jayasree and dinesh<br/>
+        &#xA9; Mahendra Vamshi,Jayasree and Dinesh<br/>
         Website floating point operation
         </div>
         </div>`
@@ -88,7 +88,7 @@ The AXI Interconnect IP connects one or more AXI memory-mapped Master devices to
         </ul>
         <hr style="width:75%"><br/>
         <div id="copyrights">
-        &#xA9; Mahendra Vamshi,jayasree and dinesh<br/>
+        &#xA9; Mahendra Vamshi,Jayasree and Dinesh<br/>
         Website floating point operation
         </div>
         </div>`
@@ -141,7 +141,7 @@ The major steps for a floating point division are<br/>
         The two mantissas are compared using a 11-bit comparator.<br/>
         <hr style="width:75%"><br/>
         <div id="copyrights">
-        &#xA9; Mahendra Vamshi,jayasree and dinesh<br/>
+        &#xA9; Mahendra Vamshi,Jayasree and Dinesh<br/>
         Website floating point operation
         </div>
         </div>`
@@ -168,7 +168,7 @@ The major steps for a floating point division are<br/>
         <b style="position:relative;left:50px;">Cycle count ::  801</b>
         <hr style="width:75%"><br/>
         <div id="copyrights">
-        &#xA9; Mahendra Vamshi,jayasree and dinesh<br/>
+        &#xA9; Mahendra Vamshi,Jayasree and Dinesh<br/>
         Website floating point operation
         </div>
 
@@ -188,7 +188,7 @@ The major steps for a floating point division are<br/>
         <a href="https://github.com/DineshVenkatG/16-Bit-Floating-Point-Comparator">Floating point division</a><br/><br/>
         <hr style="width:75%"><br/>
         <div id="copyrights">
-        &#xA9; Mahendra Vamshi,jayasree and dinesh<br/>
+        &#xA9; Mahendra Vamshi,Jayasree and Dinesh<br/>
         Website floating point operation
         </div>
         </div>`
