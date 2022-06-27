@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Floating point </title>
     <style> @import url("index.css");</style>
-    <script src="C:\Users\mahen\Downloads\FP pes\main.js"></script>
+    <script src="index.js"></script>
 </head>
 <body>
     <div id="leftbar">
@@ -55,7 +55,7 @@
 The ARM Advanced Microcontroller Bus Architecture 3 (AXI3) and 4 (AXI4) specifications include the Advanced eXtensible Interface (AXI), which is a parallel high-performance, synchronous, high-frequency, multi-master, multi-slave communication interface primarily intended for on-chip communication.
 The AXI Interconnect IP connects one or more AXI memory-mapped Master devices to one or more memory-mapped Slave devices.
 <br/> 
-        <img src="C:\Users\mahen\Downloads\FP pes\assets/axi.jpg"/><br/><br/>
+        <img src="../assets/axi.jpg"/><br/><br/>
         <hr style="width:75%"><br/>
         <div id="copyrights">
         &#xA9; Mahendra Vamshi,Jayasree and Dinesh<br/>
