@@ -42,7 +42,7 @@ function fun(src)
 The ARM Advanced Microcontroller Bus Architecture 3 (AXI3) and 4 (AXI4) specifications include the Advanced eXtensible Interface (AXI), which is a parallel high-performance, synchronous, high-frequency, multi-master, multi-slave communication interface primarily intended for on-chip communication.
 The AXI Interconnect IP connects one or more AXI memory-mapped Master devices to one or more memory-mapped Slave devices.
 <br/> 
-        <img src="C:/Users/mahen/Downloads/FP pes/assets/axi.jpg"/>
+        <img src="./assets/axi.jpg"/>
         <hr style="width:75%"><br/>
         <div id="copyrights">
         &#xA9; Mahendra Vamshi,Jayasree and Dinesh<br/>
@@ -61,12 +61,12 @@ The AXI Interconnect IP connects one or more AXI memory-mapped Master devices to
         <li>	Single-precision 32-bit  </li>
         <li>	Double-precision 64-bit</li></ul>
         A floating point number has three fields, viz, sign field ( S ), exponent field ( E ) and mantissa ( I ). The exponent field is added to a bias component to differentiate between negative and positive exponents. The decimal equivalent of this representation is
-        <br/><br/><img src="C:/Users/mahen/Downloads/FP pes/assets/fpintro.jpg" width=100px /><br/><br/>
+        <br/><br/><img src="./assets/fpintro.jpg" width=100px /><br/><br/>
         Here we have designed the architectures for 16-bit also to achieve moderate accuracy and lower resources.
          A floating point number can be represented in binary as<br/><br/>
-         <img src="C:/Users/mahen/Downloads/FP pes/assets/fpmain1.jpg"/><br/>
-         <img src="C:/Users/mahen/Downloads/FP pes/assets/fpmain2.jpg"/><br/>
-         <img src="C:/Users/mahen/Downloads/FP pes/assets/fpmain3.jpg"/><br/><br/><br/>
+         <img src="./assets/fpmain1.jpg"/><br/>
+         <img src="./assets/fpmain2.jpg"/><br/>
+         <img src="./assets/fpmain3.jpg"/><br/><br/><br/>
          The steps of converting a fixed point number to a floating point number are:<br/>
          <ul style="list-style-type:circle">
         	<li>Invert the number if the number is negative or if the MSB is logic 1.</li>
@@ -104,7 +104,7 @@ The AXI Interconnect IP connects one or more AXI memory-mapped Master devices to
     </ol>
         <div id='mul'>floating point multiplication:<br/><hr style='width:50%'/><br/>
         A floating point multiplication between two numbers a and b can be expressed as<br/><br/>
-        <img src="C:/Users/mahen/Downloads/FP pes/assets/operation1.jpg" width=300px /><br/><br/>
+        <img src="./assets/operation1.jpg" width=300px /><br/><br/>
         Thus it can be said that in a floating point multiplication, mantissas are multiplied and exponents are added.
         The major steps for a floating point division are: <br/>
         <ul style="list-style-type:circle">
@@ -117,7 +117,7 @@ The AXI Interconnect IP connects one or more AXI memory-mapped Master devices to
         <br/>
         <div id='div'>floating point division:<br/><hr style='width:50%'/><br/>
         A floating point division where a number a divides another number b can be expressed as<br/><br/>
-        <img src="C:/Users/mahen/Downloads/FP pes/assets/operation2.jpg" width=300px /><br/><br/>
+        <img src="./assets/operation2.jpg" width=300px /><br/><br/>
         Thus it can be said that in a floating point division, mantissas are divided and exponents are subtracted.<br/>
 The major steps for a floating point division are<br/>
         <ul style="list-style-type:square">
@@ -156,15 +156,15 @@ The major steps for a floating point division are<br/>
         <li><a href="#comr">Floating point Comparision</a></li>
         </ol>
         <div id='mulr'>Floating point multiplication:<br/><hr style='width:50%'/><br/><br/>
-        <img src="C:/Users/mahen/Downloads/FP pes/assets/result1.jpg"/><br/><br/>
+        <img src="./assets/result1.jpg"/><br/><br/>
         <b style="position:relative;left:50px;">Cycle count ::  200</b><br/><br/><br/>
 
         <div id='divr'>Floating point division:<br/><hr style='width:50%'/><br/><br/>
-        <img src="C:/Users/mahen/Downloads/FP pes/assets/result2.jpg"/><br/><br/>
+        <img src="./assets/result2.jpg"/><br/><br/>
         <b style="position:relative;left:50px;">Cycle count ::  198</b><br/><br/><br/>
 
         <div id='comr'>Floating point comparator:<br/><hr style='width:50%'/><br/><br/>
-        <img src="C:/Users/mahen/Downloads/FP pes/assets/result3.jpg"/><br/><br/>
+        <img src="./assets/result3.jpg"/><br/><br/>
         <b style="position:relative;left:50px;">Cycle count ::  801</b>
         <hr style="width:75%"><br/>
         <div id="copyrights">
